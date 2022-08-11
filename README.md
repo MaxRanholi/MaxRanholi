@@ -9,6 +9,9 @@
 </div>
   
   ##
+  <div align="center">
+  <h3> Tecnologias que eu uso: </h3>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Max-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -21,11 +24,13 @@
 </div>
 
   ##
+   <div align="center">
+  <h3> Onde você podeme encontrar </h3>
+</div>
   
   
 <div align="center"> 
   <a href="https://www.instagram.com/maxranholi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ranholimax@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maximiliano-ranholi-araujo-305187214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
