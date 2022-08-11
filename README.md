@@ -10,7 +10,7 @@
   
   ##
   <div align="center">
-  <h3> Tecnologias que eu uso: </h3>
+  <h2> Tecnologias que eu uso: </h2>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -25,7 +25,7 @@
 
   ##
    <div align="center">
-  <h3> Onde você podeme encontrar </h3>
+  <h2> Onde você pode me encontrar: </h2>
 </div>
   
   
