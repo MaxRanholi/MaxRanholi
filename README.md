@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Oi! Eu sou o Max, desenvolvedor front-end React JS. </h1>
+  <h1> Oi! Eu sou o Max, desenvolvedor Fullstack. </h1>
 </div>
 
 <div align="center">
